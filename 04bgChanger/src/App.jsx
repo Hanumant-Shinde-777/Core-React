@@ -62,3 +62,5 @@ style={{background:"Aqua"}}
 }
 
 export default App
+
+console.log("Hello world")

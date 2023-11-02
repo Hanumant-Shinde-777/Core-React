@@ -63,4 +63,5 @@ style={{background:"Aqua"}}
 
 export default App
 
-console.log("Hello world")
+
+//04.6

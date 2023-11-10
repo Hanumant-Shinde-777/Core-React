@@ -67,6 +67,11 @@ function Board({ xIsNext, squares, onPlay }) {
           }
         
 
+          //created function for jumps  for next move
+          function jumpTo(nextMove) {
+            setCurrentMove(nextMove);
+          }
+        
 
 
 

@@ -1,4 +1,4 @@
-
+//Removing unwanted code 
 function App() {
   //const [count, setCount] = useState(0)
 

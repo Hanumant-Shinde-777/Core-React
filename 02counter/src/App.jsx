@@ -34,6 +34,4 @@ setReminder(Counter -1)
     </>
   )
 }
-
 export default App
-
